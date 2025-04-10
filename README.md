@@ -8,6 +8,8 @@ Um jogo de plataforma 2D feito em Unity.
 
 - Espaço para pular
 
+- Colete as moedas, evite os espinhos
+
 ## Créditos
 
 - Sprite do cavaleiro: https://bdragon1727.itch.io/72-cute-pixel-character?download
